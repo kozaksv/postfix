@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: Sergii Kozak
+  description: postfix send only
+  license: license (GPLv2, CC-BY, etc)
+  min_ansible_version: 1.2
+  
+  categories:
+    - system
+dependencies: []
+  
